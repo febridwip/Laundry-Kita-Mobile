@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "153089084717",
+    "firebase_url": "https://laundry-kita-mobile-android.firebaseio.com",
+    "project_id": "laundry-kita-mobile-android",
+    "storage_bucket": "laundry-kita-mobile-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153089084717:android:0d95071540cd1a5d",
+        "android_client_info": {
+          "package_name": "com.tugas_besar.laundry_kita_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153089084717-hqjugajafh6qllpo37t42g4v88d5iv0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tugas_besar.laundry_kita_mobile",
+            "certificate_hash": "469758a7241ce187263673a5fdbe41e55317c171"
+          }
+        },
+        {
+          "client_id": "153089084717-admk7c0g6o16p1e8f4726r05s293ou6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr35tzXemVeUygPVfQWUikeVcpBwHQWd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153089084717-admk7c0g6o16p1e8f4726r05s293ou6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
